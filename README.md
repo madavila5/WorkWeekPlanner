@@ -11,13 +11,13 @@ Work Week Planner Application
 - JQuery
 - Javascript
 - Moment.js
+- Bootstrap
 
 # Images
 
-<img src="Images/Planner1" alt="">
-<img src="Images/Planner2" alt="">
-<img src="Images/Planner3" alt="">
-<img src="Images/Planner4" alt="">
+<img src="Images/Planner1" alt="Planner Main Screen">
+<img src="Images/Planner2" alt="Planner Hours of Past, Current, Future">
+
 
 # Link
  https://madavila5.github.io/WorkWeekPlanner/
