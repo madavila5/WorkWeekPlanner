@@ -65,7 +65,9 @@ textarea {
   background-color: #384B1A;
   color: black;
 }
-
+.btn{
+  border-color: blanchedalmond;
+}
 .saveBtn i:hover {
   font-size: 20px;
   transition: all 0.3s ease-in-out;
