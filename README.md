@@ -15,8 +15,8 @@ Work Week Planner Application
 
 # Images
 
-<img src="Images/Planner1" alt="Planner Main Screen">
-<img src="Images/Planner2" alt="Planner Hours of Past, Current, Future">
+<img src="Images/Planner1.png" alt="Planner Main Screen">
+<img src="Images/Planner2.png" alt="Planner Hours of Past, Current, Future">
 
 
 # Link
